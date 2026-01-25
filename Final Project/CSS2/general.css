@@ -1,0 +1,151 @@
+body {
+  background-color: #fff8f0;
+  font-family: 'Jaini', sans-serif;
+  padding-top:100px;
+
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration:none;
+}
+
+
+
+h3 {
+  color: #ffffff;
+  background-color: #ef6c00;
+  font-size: 22px;
+  text-transform: uppercase;
+  font-family: 'Jaini', sans-serif;
+  font-weight: bold;
+  padding: 10px 20px;
+  border-radius: 4px;
+  letter-spacing: 1px;
+  margin-bottom: 20px;
+}
+
+
+
+.FilmFestival-logo img {
+  display: block;
+  height: auto;
+  width: auto;
+  max-height: 100px;
+}
+
+
+
+.nav-item{
+	 font-size:18px;
+}
+
+
+.navbar {
+  background-color: #f57c00;
+}
+
+.navbar .nav-link {
+  color: #2e2e2e;
+  font-weight: 500;
+  letter-spacing:4px;
+}
+
+.navbar .nav-link:hover {
+  color: #ffc107;
+  font-size:18px;
+}
+
+
+
+.bold-text {
+  font-family: 'Jaini', sans-serif;
+  font-size: 24px;                       
+  font-weight: bold;                    
+  color: #4e342e;                       
+  line-height: 1.6;                      
+  letter-spacing: 0.5px; 
+  text-align: center;               
+}
+
+.festival-image {
+  max-width: 90%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
+
+.festival-paragraph {
+  font-family: 'Jacques Francois', serif; 
+  font-size: 17px;                            
+  line-height: 1.8;                           
+  color: #5d4037;                             
+  margin-bottom: 20px; 
+  text-align: justify;                       
+}
+
+
+.involved-card {
+  background-color: #ffffff;
+  border-radius: 12px;
+  padding: 1.5rem;
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.08);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.involved-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 12px 24px rgba(0, 0, 0, 0.12);
+}
+
+
+.involved-card h4 {
+  font-size: 1.25rem;
+  font-weight: 600;
+  color: #a3542d;
+  margin-bottom: 0.5rem;
+  text-align: center;
+}
+
+.involved-card p {
+  font-size: 1rem;
+  font-weight: 300;
+  color: #4a3b36;
+  text-align: center;
+  font-family:'Jacques Francois', serif; ;
+}
+
+
+footer{
+  text-align: center;
+}
+  
+
+.footer, .bgcolor3 {
+  background-color: #fff3e0;
+  color: #5d4037;
+  padding: 30px 20px;
+  font-size: 14px;
+}
+
+
+
+.footer-copyright {
+  font-family:'Roboto', sans-serif;;
+  font-size: 13px;
+  color: #000000;        
+  text-align: center;
+  letter-spacing: 1px;
+  margin-top: 30px;
+}
+
+
+
+
